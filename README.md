@@ -1,5 +1,10 @@
 # Reference Client: Realtime API (beta)
 
+
+TODO fable's change
+
+---
+
 This repository contains a reference client aka sample library for connecting
 to OpenAI's Realtime API.
 **This library is in beta and should not be treated as a final implementation.**
